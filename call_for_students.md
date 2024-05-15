@@ -29,10 +29,10 @@ y computación científica.
   - Desarrollo en PETSc 
 
 ### Prof. Pastor Pérez, D.Sc - Biología Comutacional y Modelado Matemático
-- **Correo electrónico:** ejemplo@example.com
+- **Correo electrónico:** peperez.estigarribia@pol.una.py
 - **Temas sugeridos:**
-  - Algoritmos avanzados para procesamiento de datos grandes
-  - Simulaciones computacionales de fenómenos físicos
+  - Algoritmos avanzados para procesamiento de datos
+  - Modelados y simulaciones computacionales de fenómenos biológicos
 
 ## Requisitos
 
@@ -44,6 +44,6 @@ y computación científica.
 
 1. Elegir un tema de interés y un profesor guía.
 2. Contactar al profesor por correo electrónico para discutir la propuesta preliminar.
-3. Preparar una propuesta formal de tesis y presentarla antes de la fecha límite.
+3. Preparar una propuesta formal de tesis.
 
 ¡Te esperamos para que formes parte de nuestro equipo de investigación!
