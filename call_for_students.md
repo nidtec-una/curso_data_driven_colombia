@@ -7,7 +7,9 @@ y computación científica.
 ## Detalles del Programa
 
 - **Modalidad:** En línea
-- **Ubicación:** Universidad Nacional de Asunción
+- **Universidad:** Universidad Nacional de Asunción
+- **Facultad:** Facultad Politécnica
+- **Grupo:** Grupo de Investigación en Matemática Aplicada y Computacional
 
 ## Temáticas y Profesores Disponibles
 
@@ -16,7 +18,8 @@ y computación científica.
 - **Temas sugeridos:**
   - Modelado matemático en medios porosos
   - Desarrollo de software científico en Python y MATLAB
-  - 
+  - Physics Informed Neural Networks
+  - A posteriori error estimation and adaptive mesh refinement
 
 ### Prof. Juan Carlos Cabral, D.Sc - Álgebra Lineal Numérica
 - **Correo electrónico:** jccabral@pol.una.py
