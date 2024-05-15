@@ -24,7 +24,7 @@ y computación científica.
 ### Prof. Juan Carlos Cabral, D.Sc - Álgebra Lineal Numérica
 - **Correo electrónico:** jccabral@pol.una.py
 - **Temas sugeridos:**
-  - Domain Mode Decomposition
+  - Dynamic Mode Decomposition
   - Iterative solvers
   - Desarrollo en PETSc 
 
