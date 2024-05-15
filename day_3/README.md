@@ -20,6 +20,7 @@ conda activate mi_entorno
 Instala todas las bibliotecas requeridas utilizando el siguiente comando. Esto incluirá todos los paquetes necesarios para los cuadernos:
 
 ```bash
+conda install jupyter notebook
 conda install numpy pandas matplotlib seaborn scikit-learn plotly pytorch -c pytorch -c conda-forge
 ```
 
