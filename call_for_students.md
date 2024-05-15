@@ -28,7 +28,7 @@ y computación científica.
   - Iterative solvers
   - Desarrollo en PETSc 
 
-### Prof. Pastor Pérez, D.Sc - Biología Comutacional y Modelado Matemático
+### Prof. Pastor Pérez, D.Sc - Biología Computacional y Modelado Matemático
 - **Correo electrónico:** peperez.estigarribia@pol.una.py
 - **Temas sugeridos:**
   - Algoritmos avanzados para procesamiento de datos
